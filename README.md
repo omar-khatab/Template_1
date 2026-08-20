@@ -3,7 +3,7 @@
 Creative agency landing page - My first work converting PSD to responsive website with clean, semantic HTML/CSS/JS. Foundation for frontend journey.
 
 ### 🔗 Live Demo
-https://omar-khatab.github.io/Template_1/
+https://omar-khatab.github.io/Leon-Agency/
 
 ### 🛠️ Stack
 - HTML5
